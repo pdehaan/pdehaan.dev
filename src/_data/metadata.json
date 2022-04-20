@@ -1,0 +1,21 @@
+{
+  "title": "pdehaan.dev",
+  "url": "https://pdehaan.dev/",
+  "language": "en",
+  "description": "Just a bunch of random stuff",
+  "feed": {
+    "subtitle": "Just a bunch of random stuff",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://pdehaan.dev/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://pdehaan.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "Peter deHaan (pdehaan)",
+    "email": "pdehaan@hey.com",
+    "url": "https://pdehaan.dev/"
+  }
+}
